@@ -1,1 +1,2 @@
 # sales-insights-using-Power-Bi
+This Power BI project provides interactive sales insights by analyzing key performance metrics such as total revenue, profit margins, regional sales distribution, and product category performance. The dashboard includes dynamic visualizations for trend analysis, top-performing products, and customer segmentation. Designed for data-driven decision-making, this project helps businesses optimize sales strategies and improve profitability.
